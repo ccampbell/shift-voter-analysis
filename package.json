@@ -1,0 +1,16 @@
+{
+  "name": "shift-voter-analysis",
+  "version": "1.0.0",
+  "description": "Script to analyze shift delegate voting algorithms",
+  "main": "analyze.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "easy-table": "^1.1.0",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.4"
+  }
+}
