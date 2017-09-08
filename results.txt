@@ -1,0 +1,480 @@
+Username              Current Rank  Weighted Rank  Popular Rank
+--------------------  ------------  -------------  ------------
+seatrips              1             3              1
+gregorst              2             5              3
+shiftraider           3             9              13
+official_pool         4             2              2
+djandre               5             7              6
+mrgr                  6             14             5
+goldeneye             7             6              4
+shiftspider           8             13             15
+sio34                 9             24             18
+ampsicora             10            22             10
+redpool               11            8              46
+forrest               12            12             38
+heisenberg1995        13            10             24
+dimm86                14            20             21
+shozay_pool           15            11             51
+trnp                  16            16             62
+stefanoproxy_pool     17            23             34
+shiftcow              18            21             60
+shiftpool             19            1              26
+yondz                 20            25             30
+gerb                  21            38             16
+vipertkd              22            31             17
+swminer90             23            17             12
+liskit                24            33             14
+bitmyst               25            29             43
+nomoredollar          26            15             33
+corsaro               27            41             8
+gr33ndrag0n           28            27             9
+worldcoinpool         29            26             65
+peanhoy               30            19             67
+guinew                31            34             36
+hongkie               32            18             70
+oakey22               33            37             39
+kiashaan_amz          34            36             55
+vekexasia             35            35             73
+kanieloutis           36            32             80
+gmx                   37            48             19
+bawga                 38            44             48
+nuevax                39            56             35
+win_devnode           40            45             28
+mg_pool               41            28             69
+nytrobound            42            49             68
+thrice.pi             43            62             37
+swimming_pool         44            30             79
+rexy                  45            40             66
+starlord              46            42             91
+techbytes             47            65             20
+samuray               48            53             25
+sirius                49            43             57
+bikeynab              50            58             32
+mavnezz               51            46             72
+cc001                 52            61             23
+ghostfaceuk           53            39             83
+joelem                54            63             49
+nirve                 55            64             41
+shift_donations       56            52             81
+hagie                 57            60             63
+nyancat               58            51             92
+efebmx                59            71             31
+jan                   60            47             7
+shoosh                61            55             88
+wariner               62            69             11
+anamix                63            73             54
+mrgr2                 64            67             64
+bioly                 65            77             27
+karanslay             66            68             87
+ebola                 67            50             22
+lordshare             68            57
+mrwhite               69            70             96
+snatic                70            80             50
+timboslice            71            75             53
+iloveshift            72            59             84
+punkrock              73            84             29
+exeric3               74            74             59
+axi                   75            81             74
+forumfinancejv        76            66
+samuel_paulsun        77            72             42
+kwell                 78            87             85
+reinstein             79            76             95
+shiftcosmos           80            90             56
+scofield              81            78
+loomdart              82            4              99
+popcornbag            83            83             40
+gregoro               84            82             76
+nomoredollar2         85            85             97
+necromatiz            86            88
+jamiec79              87            54             78
+fanilla               88            92             71
+ryanvdn               89            91             47
+saluki                90            79             90
+brutale               91            95             61
+wannabe_rotebaron     92            93             44
+shiftcommunitywallet  93            89             98
+ondin                 94            97             45
+giogio                95            96             75
+dotnet70              96            99             77
+felix_delegate        97            100            93
+slasheks              98            98             58
+tharude               99            86             52
+seatrips2             100           101            82
+kicken                101
+iceman                              94
+heisenberg2
+raven_mm
+guinew2
+bran
+cryptopools
+ron
+nuevax2
+alelosbrigia                                       89
+lamar                                              86
+drake_pool
+ilgio
+subz3r0                                            101
+worldshift
+cataoffee99
+ppan                                               94
+prometroidl
+wariner_pool
+metal494                                           100
+neuthor
+bitseedmike
+blink_pool
+bbcoin
+ebola2
+davideg
+starlord_pool
+bikeynab2
+kostik
+vrlc92
+shift_pool
+blockpool
+shiftadspool
+wws_pool
+pool_wariner3_voting
+pool_wariner2_voting
+shiftkarma
+mindelements
+mundogamer
+vo1d
+epicthought
+densmirnov
+shiftalicious
+goku
+distro
+shift_delegate_paris
+wariner3
+alt!f4
+wariner2
+pedro61
+dafricash
+jamo
+gatekeeper
+kushed.delegate
+kiashaan
+goldeneye2
+shift_community
+ryanvdn2
+domgravel
+finnick
+axente
+boysie
+seatrips3
+jan2
+cc002
+liskisawe
+ottobene
+gigiua
+caoffee9
+il_minatore
+bears
+mike
+hagie_iot
+samuray2
+cosmos
+popcornbag2
+swminer902
+superdelegate
+dan64
+atreides
+punkrock2
+felixs
+shift_lotto
+redsn0w
+ghaarte
+shifter
+yury_d
+coinbar
+dnny1802
+e1ghtspace
+shift_faucet
+wll1rah_vps
+deff
+wll1rah
+stephen
+pierom
+dafricashift
+4miners.net_000
+rexy_voting
+shift
+apolo11
+roicoin
+kiashaan_win_node
+raspberry
+psyx80
+odubinkin
+hagie_vote
+ampsicora2
+shiftforge
+boysie_cloud
+shiftnode_faucet
+redsn0w.1
+qwerty
+easyexchange.io
+theone
+theghost1980
+alt!f5
+shift_canada
+pro11
+xtremshift
+oro
+tl
+shift_lottery
+shiftmobile
+sydney
+godfather
+bustamimes
+capslock
+moonlanding
+mg
+shiftspider2
+gatekeeper_vote
+anamix_vote
+shiftminer
+djandre2
+mav
+delemanjoo
+pluto
+1st
+shift2528
+qqq
+moolymagic
+cosmos_vote
+tireless
+5thdimension
+iloveshowers
+mmjgg
+starlord_voting
+casp3r
+4miners.net_001
+willywiz
+genesisDelegate81
+xxvolxx
+xxbuntxx
+xxapplexx
+genesisDelegate91
+dubrovin
+liskisaw
+shiftspidervoting
+kushed_vote
+iloveshift_voting
+marsof
+hippob
+donvasyl
+coinz4fun
+shift_test
+xxclockxx
+xxtransmissionlinexx
+balda
+semperfi
+bigs21024
+shift_dice
+purplescorpio
+velshifter
+shiftlotto
+aldenpogi
+smartpunter
+john
+arjan
+erfeanor
+mulia23
+rabbit
+mwarner.me
+ialsowantto
+darval
+5thdim2
+notrag
+daveeoff
+seatripstest
+martipan
+shiftraiderwallet
+cryptovote
+axi2
+neurosonic
+et_first.contact
+4miners.net_002
+genesisDelegate45
+samuel_paulsun_2
+genesisDelegate51
+snake_plissken
+cerylia
+nori
+o
+ray
+glimmer
+xximacxx
+sio34_voting
+trytostopme
+baltcoinh
+genesisDelegate50
+genesisDelegate54
+genesisDelegate74
+genesisDelegate10
+xbvsvps
+genesisDelegate78
+genesisDelegate43
+genesisDelegate90
+maniakfall
+genesisDelegate21
+kenblazer
+genesisDelegate89
+genesisDelegate24
+thrive_pool
+iceman_voting
+xxmacxx
+genesisDelegate96
+genesisDelegate65
+genesisDelegate73
+genesisDelegate23
+bladeshift
+genesisDelegate101
+genesisDelegate20
+xxdnbxx
+genesisDelegate48
+xxmearlinxx
+stoner19
+xxclicksxx
+shiftwallet
+genesisDelegate36
+hef911
+xxdanixx
+genesisDelegate32
+alexlab51
+xxricixx
+genesisDelegate86
+genesisDelegate76
+xxblackxx
+bazmek
+genesisDelegate19
+genesisDelegate53
+genesisDelegate47
+genesisDelegate100
+genesisDelegate41
+genesisDelegate79
+genesisDelegate64
+sneakyhipp0
+genesisDelegate18
+crane
+john03
+genesisDelegate34
+xxcomxx
+genesisDelegate69
+genesisDelegate88
+xxphonexx
+genesisDelegate55
+shift101
+genesisDelegate82
+xxcurlxx
+genesisDelegate11
+genesisDelegate63
+genesisDelegate85
+alwaysonline.io
+mapsi
+genesisDelegate94
+communitywallet2
+ampsicora_voting
+genesisDelegate87
+genesisDelegate46
+genesisDelegate28
+skunk
+genesisDelegate3
+genesisDelegate56
+genesisDelegate92
+forumfinance_voting
+genesisDelegate14
+onearil
+genesisDelegate60
+genesisDelegate4
+e1ghtspace_voting
+genesisDelegate5
+genesisDelegate80
+genesisDelegate70
+genesisDelegate97
+genesisDelegate52
+genesisDelegate99
+davoz
+genesisDelegate27
+genesisDelegate35
+xxtvxx
+xxsc2xx
+genesisDelegate59
+genesisDelegate12
+genesisDelegate16
+mavnezz_voting
+mdigi1
+seatripsvoting
+xxripxx
+genesisDelegate84
+xxmalpxx
+genesisDelegate39
+genesisDelegate38
+genesisDelegate98
+genesisDelegate58
+prometroidl_voter
+genesisDelegate77
+genesisDelegate17
+genesisDelegate61
+genesisDelegate44
+genesisDelegate93
+hendrawu
+xxsamxx
+genesisDelegate83
+communitywallet3
+allon
+xxcronxx
+genesisDelegate71
+genesisDelegate66
+genesisDelegate22
+coinexchange.tech
+genesisDelegate33
+xxshiftxx
+hepi
+genesisDelegate1
+genesisDelegate95
+xxperlxx
+genesisDelegate67
+genesisDelegate57
+expansio
+genesisDelegate42
+xxgatexx
+genesisDelegate15
+xxtorxx
+genesisDelegate49
+ayms
+axelrun
+genesisDelegate2
+genesisDelegate13
+genesisDelegate8
+genesisDelegate75
+xxsungxx
+shifter1337
+genesisDelegate68
+m@
+genesisDelegate9
+delumigreen
+xxmeargexx
+genesisDelegate30
+xxtearsxx
+alias
+genesisDelegate26
+e1ghtvideotest
+xxpionerxx
+genesisDelegate25
+xxnadxx
+frandiazc
+yondz_voting
+genesisDelegate40
+genesisDelegate62
+genesisDelegate7
+genesisDelegate31
+genesisDelegate6
+genesisDelegate37
+oakey22_voting
+genesisDelegate72
+atomix
+stefanoproxy_voting
+genesisDelegate29
+s
