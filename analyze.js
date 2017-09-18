@@ -95,7 +95,7 @@ function assignScores(delegate) {
     }, 0);
 
     delegate.scoreWeighted = delegate.voters.reduce((sum, voter) => {
-        voter = voters[voter.address]
+        voter = voters[voter.address];
         return sum + (parseInt(voter.balance, 10) / voter.votes.length);
     }, 0);
 
