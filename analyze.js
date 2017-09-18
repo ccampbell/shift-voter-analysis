@@ -108,19 +108,8 @@ function printRanks(delegates) {
 
     defaultOrder.forEach((delegate, i) => {
         delegate.defaultRank = i + 1;
-        if (delegate.defaultRank > 101) {
-            delegate.defaultRank = '';
-        }
-
         delegate.popularRank = popularOrder.indexOf(delegate) + 1;
-        if (delegate.popularRank === 0 || delegate.popularRank > 101) {
-            delegate.popularRank = '';
-        }
-
         delegate.weightedRank = weightedOrder.indexOf(delegate) + 1;
-        if (delegate.weightedRank === 0 || delegate.weightedRank > 101) {
-            delegate.weightedRank = '';
-        }
 
         table.cell('Username', delegate.username);
         table.cell('Current Rank', delegate.defaultRank);
