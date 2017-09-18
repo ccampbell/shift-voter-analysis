@@ -66,10 +66,23 @@ async function getVoters(delegate) {
     }
 }
 
+function getVoteWeight(numVotes) {
+    if (numVotes === 0) {
+        return 0;
+    }
+
+    if (numVotes === 1) {
+        return 1;
+    }
+
+    return 100 / Math.log10(2 * numVotes) / 2;
+}
+
 function assignScores(delegate) {
     delegate.scorePopular = 0;
     delegate.scoreDefault = 0;
     delegate.scoreWeighted = 0;
+    delegate.scoreLog10 = 0;
 
     if (!delegate.voters || delegate.voters.length === 0) {
         return;
@@ -84,6 +97,12 @@ function assignScores(delegate) {
     delegate.scoreWeighted = delegate.voters.reduce((sum, voter) => {
         voter = voters[voter.address]
         return sum + (parseInt(voter.balance, 10) / voter.votes.length);
+    }, 0);
+
+    delegate.scoreLog10 = delegate.voters.reduce((sum, voter) => {
+        voter = voters[voter.address];
+        const voteWeight = getVoteWeight(voter.votes.length);
+        return sum + (parseInt(voter.balance, 10) * voteWeight);
     }, 0);
 }
 
@@ -104,17 +123,23 @@ function printRanks(delegates) {
         return b.scoreWeighted - a.scoreWeighted;
     });
 
+    const log10Order = Array.from(delegates).sort((a, b) => {
+        return b.scoreLog10 - a.scoreLog10;
+    });
+
     const table = new Table;
 
     defaultOrder.forEach((delegate, i) => {
         delegate.defaultRank = i + 1;
         delegate.popularRank = popularOrder.indexOf(delegate) + 1;
         delegate.weightedRank = weightedOrder.indexOf(delegate) + 1;
+        delegate.log10Rank = log10Order.indexOf(delegate) + 1;
 
         table.cell('Username', delegate.username);
         table.cell('Current Rank', delegate.defaultRank);
         table.cell('Weighted Rank', delegate.weightedRank);
         table.cell('Popular Rank', delegate.popularRank);
+        table.cell('Log10 Rank', delegate.log10Rank);
         table.newRow();
     });
 
